@@ -1,0 +1,24 @@
+{
+  "name": "web-programming-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@ucudal/eslint-config": "^0.2.0",
+    "@ucudal/stylelint-config": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiorellaescobar/web-programming-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiorellaescobar/web-programming-boilerplate/issues"
+  },
+  "homepage": "https://github.com/fiorellaescobar/web-programming-boilerplate#readme"
+}
