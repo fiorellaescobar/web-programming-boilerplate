@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+nav {
+  height: 3rem;
+  background-color: orange;
+}
+#main {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+#main > .left {
+  background-color: pink;
+}
+#main > .right {
+  background-color: pink;
+}
+#main > section {
+  background-color: darkorchid;
+}

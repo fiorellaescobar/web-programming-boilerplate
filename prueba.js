@@ -1,3 +1,1 @@
-const fn= () => {
-console.log("hola")
-}
+export default () => {};
