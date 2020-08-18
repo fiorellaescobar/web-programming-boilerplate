@@ -8,14 +8,20 @@ nav {
 #main {
   height: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 #main > .left {
   background-color: pink;
+  flex: 1;
+  height: 550px;
 }
 #main > .right {
   background-color: pink;
+  flex: 1;
+  height: 300px;
 }
 #main > section {
   background-color: darkorchid;
+  flex: 2;
+  margin: 0 1em;
 }
